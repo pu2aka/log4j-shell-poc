@@ -9,7 +9,7 @@
     <div class="flex w-1/2 justify-center items-center bg-white">
         <div>
             <img src="./logo_SG.png">
-            <p class="text-indigo mt-1">The most popular gas startup company in Cancun</p>
+            <p class="text-indigo mt-1">The most popular gas startup company in Atibaia</p>
         </div>
     </div>
     <div class="flex w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 i justify-around items-center">
